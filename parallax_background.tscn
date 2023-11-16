@@ -10,26 +10,26 @@ script = ExtResource("1_6pmyh")
 
 [node name="ParallaxLayer" type="ParallaxLayer" parent="."]
 motion_scale = Vector2(0.2, 0.2)
-motion_mirroring = Vector2(1062.19, 2.08165e-12)
+motion_mirroring = Vector2(1285.52, 2.08165e-12)
 
 [node name="BackgroundLayer1" type="Sprite2D" parent="ParallaxLayer"]
-position = Vector2(533.111, 298.75)
-scale = Vector2(3.31944, 3.31944)
+position = Vector2(642, 243)
+scale = Vector2(4.019, 4.019)
 texture = ExtResource("1_dx0tc")
 
 [node name="ParallaxLayer2" type="ParallaxLayer" parent="."]
 motion_scale = Vector2(0.5, 0.5)
-motion_mirroring = Vector2(1058.3, 2.08165e-12)
+motion_mirroring = Vector2(1281.49, 2.08165e-12)
 
 [node name="BackgroundLayer2" type="Sprite2D" parent="ParallaxLayer2"]
-position = Vector2(534.951, 299)
-scale = Vector2(3.30802, 3.32222)
+position = Vector2(636, 250)
+scale = Vector2(4.007, 4.024)
 texture = ExtResource("2_o8w6i")
 
 [node name="ParallaxLayer3" type="ParallaxLayer" parent="."]
-motion_mirroring = Vector2(1061.29, 2.08165e-12)
+motion_mirroring = Vector2(1283.96, 2.08165e-12)
 
 [node name="BackgroundLayer3" type="Sprite2D" parent="ParallaxLayer3"]
-position = Vector2(533.667, 299.5)
-scale = Vector2(3.31667, 3.31667)
+position = Vector2(644, 241)
+scale = Vector2(4.016, 4.016)
 texture = ExtResource("3_fgpg7")

@@ -9,18 +9,18 @@ metadata/_edit_vertical_guides_ = [405.0]
 metadata/_edit_horizontal_guides_ = [327.0]
 
 [node name="PlayButton" type="Button" parent="."]
-offset_left = 248.0
-offset_top = 211.0
-offset_right = 562.0
-offset_bottom = 307.0
+offset_left = 520.0
+offset_top = 149.0
+offset_right = 834.0
+offset_bottom = 245.0
 theme_override_font_sizes/font_size = 50
 text = "Play"
 
 [node name="QuitButton" type="Button" parent="."]
-offset_left = 248.0
-offset_top = 350.0
-offset_right = 562.0
-offset_bottom = 446.0
+offset_left = 520.0
+offset_top = 327.0
+offset_right = 834.0
+offset_bottom = 423.0
 theme_override_font_sizes/font_size = 50
 text = "Quit"
 
