@@ -19,7 +19,7 @@ texture = ExtResource("1_dx0tc")
 
 [node name="ParallaxLayer2" type="ParallaxLayer" parent="."]
 motion_scale = Vector2(0.5, 0.5)
-motion_mirroring = Vector2(1058.6, 2.08165e-12)
+motion_mirroring = Vector2(1058.3, 2.08165e-12)
 
 [node name="BackgroundLayer2" type="Sprite2D" parent="ParallaxLayer2"]
 position = Vector2(534.951, 299)
