@@ -224,7 +224,6 @@ position = Vector2(2, -14)
 sprite_frames = SubResource("SpriteFrames_a154v")
 animation = &"fall"
 autoplay = "idle"
-frame_progress = 0.803496
 
 [node name="Camera2D" type="Camera2D" parent="."]
 limit_left = 0
@@ -232,3 +231,9 @@ limit_bottom = 597
 limit_smoothed = true
 position_smoothing_enabled = true
 drag_horizontal_enabled = true
+
+[node name="Label" type="Label" parent="."]
+offset_left = -28.0
+offset_top = -52.0
+offset_right = 32.0
+offset_bottom = -29.0
